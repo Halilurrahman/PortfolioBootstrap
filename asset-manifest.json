@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02c7c6e2.chunk.css",
+    "main.js": "/static/js/main.6430a522.chunk.js",
+    "main.js.map": "/static/js/main.6430a522.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.631ca66c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.631ca66c.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.5e2fba46.chunk.js": "/static/js/2.5e2fba46.chunk.js",
+    "static/js/2.5e2fba46.chunk.js.map": "/static/js/2.5e2fba46.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.02c7c6e2.chunk.css.map": "/static/css/main.02c7c6e2.chunk.css.map",
+    "static/js/2.5e2fba46.chunk.js.LICENSE.txt": "/static/js/2.5e2fba46.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/static/media/aboutImg.85ec998a.jpg",
+    "static/media/brain.b07570b0.jpeg": "/static/media/brain.b07570b0.jpeg",
+    "static/media/Herobanner.css": "/static/media/code.ff482ee9.jpg",
+    "static/media/Contact.css": "/static/media/contact2.60de89e5.png",
+    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg",
+    "static/media/Works.css": "/static/media/trees.a82e410b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.631ca66c.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.5e2fba46.chunk.js",
+    "static/css/main.02c7c6e2.chunk.css",
+    "static/js/main.6430a522.chunk.js"
+  ]
+}
